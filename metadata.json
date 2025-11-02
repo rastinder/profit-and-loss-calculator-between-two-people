@@ -1,0 +1,5 @@
+{
+  "name": "Ras & Suka's Ledger",
+  "description": "A web application for Ras and Suka to track shared expenses and income, calculate balances, and settle debts. It provides a clear history of all transactions and settlements.",
+  "requestFramePermissions": []
+}
